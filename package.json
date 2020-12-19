@@ -1,7 +1,7 @@
 {
   "name": "mitso-parser",
-  "version": "1.0.0",
+  "description": "MITSO site parser",
+  "version": "0.1.0",
   "dependencies": {
-    
   }
 }
